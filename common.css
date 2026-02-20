@@ -1,0 +1,97 @@
+body {
+	color: #FFF;
+	background-color: #000;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+h1 {
+	border-style: outset;
+	border-color: #000;
+}
+
+h3 {
+	font-variant: small-caps;
+}
+
+a {
+	color: #FF8;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF8;
+	text-decoration: underline;
+}
+
+.return {
+	padding: 5px;
+	border-style: outset;
+	border-color: #FF8;
+	background-color: #444;
+}
+
+.cookies {
+	margin: auto;
+	width: 98%;
+	background-color: #777;
+	border-style: outset;
+	border-color: #aaa;
+	text-align:center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.content {
+	width: 1000px;
+	margin: auto;
+	margin-top: 100px;
+	padding: 20px;
+	background-color: #777;
+	border-style: outset;
+	border-color: #aaa;
+}
+
+.blog-panel {
+	width: 900px;
+	height: 206px;
+	margin: auto;
+	margin-top:20px;
+	color: #FFF;
+	background-color: #444;
+	border-style: inset;
+	border-color: #aaa;
+}
+
+.blog-image {
+	width: 200px;
+	height: 200px;
+	float: left;
+	border-style: outset;
+	border-color: #aaa;
+}
+
+.blog-desc {
+	width: 648px;
+	height: 180px;
+	padding: 20px;
+	padding-top: 0px;
+	float: right;
+	border-style: outset;
+	border-color: #aaa;
+}
+
+.blog-entry {
+	padding: 40px;
+	padding-top: 0px;
+	background-color: #444;
+	margin: auto;
+	border-style: inset;
+	border-color: #aaa;
+}
+
+.blog-entry-image {
+	display: block;
+	margin: auto;
+	border-style: inset;
+	border-color: #aaa;
+}
